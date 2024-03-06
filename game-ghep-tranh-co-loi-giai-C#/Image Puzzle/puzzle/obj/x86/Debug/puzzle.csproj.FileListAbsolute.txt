@@ -1,0 +1,22 @@
+C:\Users\Administrator\Desktop\tri-tue-nhan-tao-master\Image Puzzle\puzzle\bin\Debug\puzzle.exe
+C:\Users\Administrator\Desktop\tri-tue-nhan-tao-master\Image Puzzle\puzzle\bin\Debug\puzzle.pdb
+C:\Users\Administrator\Desktop\tri-tue-nhan-tao-master\Image Puzzle\puzzle\obj\x86\Debug\puzzle.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\tri-tue-nhan-tao-master\Image Puzzle\puzzle\obj\x86\Debug\WindowsFormsApplication1.frmPuzzleGame.resources
+C:\Users\Administrator\Desktop\tri-tue-nhan-tao-master\Image Puzzle\puzzle\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\tri-tue-nhan-tao-master\Image Puzzle\puzzle\obj\x86\Debug\puzzle.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\tri-tue-nhan-tao-master\Image Puzzle\puzzle\obj\x86\Debug\puzzle.exe
+C:\Users\Administrator\Desktop\tri-tue-nhan-tao-master\Image Puzzle\puzzle\obj\x86\Debug\puzzle.pdb
+C:\Users\Administrator\Desktop\kì 5\tri tue nhan tao\tri-tue-nhan-tao-master\Image Puzzle\puzzle\obj\x86\Debug\puzzle.exe
+C:\Users\Administrator\Desktop\kì 5\tri tue nhan tao\tri-tue-nhan-tao-master\Image Puzzle\puzzle\obj\x86\Debug\puzzle.pdb
+D:\kì 5\New folder\tri-tue-nhan-tao\Image Puzzle\puzzle\obj\x86\Debug\puzzle.exe
+D:\kì 5\New folder\tri-tue-nhan-tao\Image Puzzle\puzzle\obj\x86\Debug\puzzle.pdb
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\tri-tue-nhan-tao\Image Puzzle\puzzle\bin\Debug\puzzle.exe.config
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\tri-tue-nhan-tao\Image Puzzle\puzzle\bin\Debug\puzzle.exe
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\tri-tue-nhan-tao\Image Puzzle\puzzle\bin\Debug\puzzle.pdb
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\tri-tue-nhan-tao\Image Puzzle\puzzle\obj\x86\Debug\puzzle.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\tri-tue-nhan-tao\Image Puzzle\puzzle\obj\x86\Debug\WindowsFormsApplication1.frmPuzzleGame.resources
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\tri-tue-nhan-tao\Image Puzzle\puzzle\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\tri-tue-nhan-tao\Image Puzzle\puzzle\obj\x86\Debug\puzzle.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\tri-tue-nhan-tao\Image Puzzle\puzzle\obj\x86\Debug\puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\tri-tue-nhan-tao\Image Puzzle\puzzle\obj\x86\Debug\puzzle.exe
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\tri-tue-nhan-tao\Image Puzzle\puzzle\obj\x86\Debug\puzzle.pdb
